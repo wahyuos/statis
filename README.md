@@ -1,0 +1,2 @@
+# statis
+Menyimpan assets
